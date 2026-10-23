@@ -50,14 +50,7 @@ My goal is to grow into a well-rounded software and data professional by buildin
 - Data cleaning and transformation
 - Exploratory data analysis
 - Learning data pipelines and ETL concepts
-- Exploring Databricks and modern data engineering tools
-
-### **Data Visualisation & Networking**
-
-- Power BI
-- Streamlit dashboards
-- Cisco Packet Tracer
-- VLAN configuration and network fundamentals
+- Exploring Databricks and modern data engineering 
 
 ---
 
